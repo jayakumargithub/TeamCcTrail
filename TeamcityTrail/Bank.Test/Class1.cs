@@ -14,7 +14,7 @@ namespace Bank.Test
         public void SomeTest()
         {
             var name = "Jayakumar";
-            Assert.AreEqual("Jaya", name);
+            Assert.AreEqual("Jayakumar", name);
         }
     }
 }
