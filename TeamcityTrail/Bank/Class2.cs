@@ -8,5 +8,6 @@ namespace Bank
 {
     public class Class2
     {
+        private string Name {get;set;}
     }
 }
